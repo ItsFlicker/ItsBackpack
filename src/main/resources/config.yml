@@ -1,0 +1,21 @@
+database:
+  host: localhost
+  port: 3306
+  user: root
+  password: root
+  database: minecraft
+  table: backpack
+
+backpacks:
+  small:
+    source: ""
+    size: 2
+  medium:
+    source: ""
+    size: 4
+  large:
+    source: ""
+    size: 6
+  ender:
+    source: ""
+    ender: true
